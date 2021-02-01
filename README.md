@@ -13,4 +13,6 @@ The job of _student mentors_ is to pitch in to help solve technical problems pos
 * **Do not answer admin questions** (e.g., questions about module requirements). Even tutors are prohibited from answering admin questions. Prof will answer those.
 * **It's best not to answer theory questions** too. This is because it is hard for you to keep track of which topics have been covered by a specific time in the module. It can confuse students if your answer refers to topics not covered yet.
 * **Avoid duplicate answers** by checking the prior posts in the thread** before posting yours as the same answer might be already present in the thread. Otherwise you might end up creating _spammy_ posts.
+* **Mentioning that you are from a previous batch** when answering questions might be good. e.g.,
+  > Hi @abc, I'm from your senior batch (dropping by in this forum to see if I can help you guys with tech problems). Can you check if ...
 * If you have questions/suggestions, you can post in the [`mentors` issue tracker](../../issues).
