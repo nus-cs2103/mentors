@@ -4,7 +4,7 @@ The job of _student mentors_ is to pitch in to help solve technical problems pos
  Given below are some guidelines.
 
 * It is important that current students get the first crack at solving technical problems as it is one of the
-  module learning outcomes.<br>
+  course learning outcomes.<br>
   Therefore, **only the problems that are not resolved within a reasonable period need inputs of student mentors**.<br>
   Hence, the workload is expected to be very light
   (because the current students are likely to be able to resolve most issues among themselves).
@@ -19,10 +19,10 @@ The job of _student mentors_ is to pitch in to help solve technical problems pos
     * mention GitHub features (e.g., fenced code syntax) the student can use to improve the post
 * Optionally, student mentors **can supplement resolved issues**  by adding more info e.g., why the solution works,
   alternative solutions not mentioned.
-* **Do not answer admin questions** (e.g., questions about module requirements).
+* **Do not answer admin questions** (e.g., questions about course requirements).
   Even tutors are prohibited from answering admin questions. Prof will answer those.
 * **It's best not to answer theory questions** too.
-  This is because it is hard for you to keep track of which topics have been covered by a specific time in the module.
+  This is because it is hard for you to keep track of which topics have been covered by a specific time in the course.
   It can confuse students if your answer refers to topics not covered yet.
 * **Avoid duplicate answers** by checking the prior posts in the thread before posting yours
   as the same answer might be already present in the thread. Otherwise you might end up creating _spammy_ posts.
